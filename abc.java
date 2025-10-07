@@ -6,5 +6,6 @@ class Main {
     System.out.println("Living in the world");
     System.out.println("Good Bye world");
     System.out.println("gt1-newchange");
+    System.out.println("another problem-gt1");
   }
 }
